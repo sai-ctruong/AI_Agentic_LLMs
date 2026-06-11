@@ -1,0 +1,32 @@
+<svg width="1019" height="733" viewBox="0 0 1019 733" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Open-source LLM Gradio interface preview</title>
+  <desc id="desc">A dark Gradio interface for selecting an LLM model, asking a question, and reading the answer.</desc>
+  <rect width="1019" height="733" fill="#0B111C"/>
+  <rect x="76" y="30" width="864" height="143" rx="4" fill="#202B3A"/>
+  <rect x="94" y="46" width="245" height="41" rx="7" fill="#5446E8"/>
+  <text x="110" y="72" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">🤖 Select LLM Model</text>
+  <rect x="526" y="46" width="162" height="41" rx="7" fill="#5446E8"/>
+  <text x="536" y="72" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Model Status</text>
+  <rect x="94" y="98" width="396" height="55" rx="4" fill="#3A4658"/>
+  <text x="119" y="133" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Llama 3.2</text>
+  <path d="M438 124H452L445 131L438 124Z" fill="#FFFFFF"/>
+  <rect x="526" y="98" width="396" height="60" rx="4" fill="#3A4658"/>
+  <text x="542" y="135" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">Llama 3.2 loaded successfully!</text>
+  <rect x="76" y="198" width="864" height="171" rx="4" fill="#202B3A"/>
+  <rect x="94" y="212" width="209" height="42" rx="7" fill="#5446E8"/>
+  <text x="110" y="240" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">❓ Your Question</text>
+  <rect x="94" y="266" width="828" height="88" rx="4" fill="#3A4658"/>
+  <text x="109" y="303" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">transformer</text>
+  <path d="M110 309C115 303 119 315 124 309C129 303 133 315 138 309C143 303 147 315 152 309C157 303 161 315 166 309C171 303 175 315 180 309C185 303 189 315 194 309C199 303 203 315 208 309C213 303 217 315 222 309C227 303 231 315 236 309" stroke="#FF2B2B" stroke-width="2"/>
+  <rect x="76" y="393" width="864" height="60" rx="8" fill="#5446E8"/>
+  <text x="401" y="431" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="700">Submit Question</text>
+  <rect x="76" y="477" width="864" height="256" rx="4" fill="#202B3A"/>
+  <rect x="94" y="492" width="136" height="42" rx="7" fill="#5446E8"/>
+  <text x="110" y="520" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">💡 Answer</text>
+  <rect x="94" y="547" width="828" height="176" rx="4" fill="#3A4658"/>
+  <text fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="22">
+    <tspan x="110" y="583">The Transformer is a model architecture that relies entirely on an attention</tspan>
+    <tspan x="110" y="613">mechanism to draw global dependencies between input and output,</tspan>
+    <tspan x="110" y="643">eschewing recurrence.</tspan>
+  </text>
+</svg>

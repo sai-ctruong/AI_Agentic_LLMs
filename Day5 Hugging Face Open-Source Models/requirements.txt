@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+bitsandbytes
+huggingface-hub
+pypdf
+gradio
+requests
+ipython
+ipywidgets
+jupyter
